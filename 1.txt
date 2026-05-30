@@ -1,0 +1,226 @@
+🔍 Fase 0: Untuk tanya hal sederhana rutin
+Cukup Google Search AI
+
+🔍 Fase 1: Ambil point penting di web agar enak dipahami manusia (atau umpankan lagi)
+Buat artikel panjang lengkap, detail, tambahkan ide-ide baru  komprehensif, ubah lebih sistematis, jelas. Buat mengalir, padat makna, aktif, actionable menggerakkan, perbanyak emoji untuk meningkatkan pengalaman membaca. Sederhanakan Struktur, perjelas, dan ditata ulang agar pembaca awam langsung paham esensinya: 
+https://........com
+atau tempel text
+
+🔍 Fase 2:  Brainstorm + Generate ide sederhana > Perdetail > Perbaiki Prompt
+Ulang hasilnya: Google search AI x2 > Lempar hasilnya ke Gemini 3x
+Perbaiki + sempurnakan prompt untuk chatbot ai dibawah ini agar jauh lebih detail + tajam, yaitu:
+
+
+🧩 Fase 3: Synthesis Enhancement + Debug (untuk pertajam + Update + Revisi Keroyokan)
+Upload file/links sumber + Prompt lengkap > dapatkan banyak sumber referensi cepat + ekstrem dari beda kekuatan domain, dimensi, visi, kemampuan, gaya, kelebihan masing-masing > hasil terpercaya > siap umpan tahap berikutnya
+> Save > ambil min. 12 Markdown file.
+Ulang hasilnya: x3 (setelah digabung dulu > lalu revisi 3x)
+Pakai semua ChatBot Free (satukan dalam 1 folder Bookmark di browser agar langsung terbuka semua):
+chat.z.ai
+chat.qwenlm.ai
+meta.ai
+chat.mistral.ai/chat
+chat.arcee.ai/chat
+grok.com
+aistudio.xiaomimimo.com
+chat.openai.com
+ernie.baidu.com
+gemini.google.com/canvas
+openrouter.ai/chat
+notebooklm.google.com
+chat.deepseek.com (lewat prompt)
+duck.ai & search.brave.com/ask (lewat links)
+perplexity.ai & kimi.com (rate limit ketat)
+
+openrouter.ai/chat (sering cek model free):
+Nemotron 3 Super (free)
+gpt-oss-120b (free)
+Trinity Large Thinking (free)
+CoBuddy (free)
+Laguna M.1 (free)
+minimax/minimax-m2.5:free
+GLM 4.5 Air (free)
+
+Baca semua link dibawah ini, telusuri semua isinya tanpa terkecuali, lalu pahami, yaitu:
+https://........com (logika)
+Narasi.md (logika)
+kalau sudah, katakan ok!
+akan diberi intruksi setelahnya
+
+
+Rombak, revisi, perbaiki, serta beri ide, inovasi, tips + strategi serta saran terbaru agar jauh lebih komprehensif sempurna
+
+[TUGAS SYNTHESIS ENHANCEMENT — MAHAKARYA ENGINE]
+ROLE, Dengan segenap pengetahuan dan kemampuanmu yang terhebat bertindaklah sebagai gabungan tim ahli strategi perfeksionis : Ideation Architect × Senior Expert Innovator × AI Visionary Strategist × Recursive Synthesis Engine (Evolver) × Cross-Contextual Architect × Strategic Insight Generator × Heuristic Expert × Master Synthesizer (Legacy Maker) × Detail Forensic Analyst
+PROTOKOL EKSEKUSI (IMPROVISASI TINGKAT DEWA):
+▸ ANALYZE & RADICAL RECONSTRUCTION: Identifikasi poin krusial. Bongkar & rekonstruksi radikal agar jauh lebih tajam, detail, & terukur. Hapus ambiguitas, perdalam argumen, pertajam struktur. Aktifkan `/firstprinciples` & `/tot` untuk eksplorasi multi-jalur.
+▸ HYPER-ENRICHMENT & INNOVASI MASIF: Picu ledakan kreativitas. Suntikkan ide orisinal (min. 5/variasi), insight mendalam lintas domain, solusi kreatif, saran konkret, serta tips + strategi taktis mutakhir powerful,  & skenario alternatif. Gunakan `/lateral` (SCAMPER/reverse brainstorming), `/simulate` (uji "bagaimana jika"), & `/probabilistic` (rentang ketidakpastian). Hasilkan *asymmetric advantage* & peluang tersembunyi.
+▸ MAHAKARYA STANDARD & RECURSIVE OPTIMIZATION: Terapkan *Quality Gate v4.0*. Bedakan tegas: Fakta vs Asumsi vs Opini. Setelah draf terbentuk, jalankan `/critic` (audit kelemahan) lalu `/optimize` (tingkatkan efisiensi +20%). Ulangi hingga tidak ada celah. Pastikan output adalah bukti kualitas tertinggi: super lengkap, actionable, komprehensif tanpa cela, detail sempurna, sebuah karya terbaik kebanggaanmu, buktikan kemampuan terbaikmu, wujud dirimu eksis
+▸ CONVERGE & DELIVERY: Susun rapi berdasar prioritas strategis (Executive Summary → Matriks Inovasi → Checklist Aksi → Rekomendasi Final). Gaya: tegas, profesional, presisi tinggi. Sertakan detail teknis rinci, *risk matrix*, & *confidence level* (%) untuk klaim kritis.
+TRIGGERS: `/tot` • `/lateral` • `/simulate` • `
+/probabilistic` • `/critic` • `/optimize` • `/godmode`
+QUALITY GATE: ✅ Rekonstruksi radikal & tajam • ✅ Ledakan inovasi lintas domain • ✅ Actionable & zero fluff • ✅ Self-validated & adversarial-tested • ✅ Format siap produksi langsung. ✅ Hasil sempurna, bisa langsung dipakai
+
+
+
+📦 Fase 4: Context Packing & Merging
+chat.qwenlm.ai pilih model Qwen3.7-Max (prioritas) atau chat.z.ai
+Akun: hotel@ - kaffah@ - wargart7@ - addh@
+Segera ganti akun jika tugas sudah selesai agar tidak kena rate limit)
+
+⚙️ Trik Upload di Qween, 5 file bertahap:
+Saya upload banyak file, telusuri semua isinya tanpa kecuali, pelajari dan pahami, dan cukup katakan ok, sebab saya akan upload file lagi setelahnya...
+
+Ingat, semua file yang saya upload dari awal sampai akhir diatas adalah 1 grub.
+
+Ini upload file terakhir, telusuri semua isinya, pelajari dan pahami semuanya, gabung dan sinkronkan pemahaman dengan semua file yang sudah di upload sebelumnya agar bisa saling mendukung tidak overlap. Cukup katakan ok!, saya akan beri intruksi tambahan setelah ini
+
+🔍 Perbandingan, ambil ide terbaik (optional)
+Berdasar alur terbaru yang sudah ideal dipakai saat ini, yaitu file: ....md (pertahankan yang terbaik saja)
+Ambil inspirasi dan ide dari file: ...md (yang mungkin masih diperlukan untuk melengkapi, misal jika ada hal baru atau ide/point lebih baik)
+Proses: Beri daftar lengkap usulan/rekomendasi terbaikmu yang layak dimasukkan/disinkronkan, dipisah dipisah pergrub fase selengkap mungkin. Beri ide + strategi terbaik
+Khusus yang kamu abaikan/buang beri alasan dibagian akhir
+
+
+🔍 Bandingkan lalu buat output baru hasil kompilasi, gabungan, dan sinkronisasi harmonis terbaik semua file diatas jadi terstruktur jelas, saling mendukung (tidak overlap), koreksi/evaluasi total dan perbaiki kelemahan menyeluruh agar komprehensif sempurna sesuai rekomendasi terbaikmu hingga meningkat drastis!.
+
+Gunakan seluruh kemampuan terbaikmu sebagi agentic ai super terbaik untuk mewujudkan misi besar project jadi karya terbaikmu, bukti dirimu eksis!
+Pecah pembahasan besar pertahap agar alur kecil lebih detail tajam
+
+Buat output pertama khusus membahas daftar lengkap baik tools/service, dan terutama Proses/tahapan yang kamu buang/abaikan
+Beri alasan jelas agar bisa beri masukan sebelum lanjut, yang tidak terpakai tapi bisa dipakai di masa depan simpan di registry
+
+[TUGAS INDEXING · ANALISIS · MERGING — GOD MODE]
+ROLE Superposisi simultan: Information Architect × Cognitive Analyst × Synthesis Master × Intelligence Analyst × Context Packager × Document Merger × Repository Flattener × Data Pre-processing Architect × Information Density Engineer × Metacognitive Auditor
+PROTOKOL EKSEKUSI (FAFA CYCLE):
+▸ FRAME & INDEXING (Mental Mapping): Telusuri seluruh dokumen tanpa terpotong. Lakukan silent indexing: petakan kerangka garis besar, hierarki logis, entitas kunci, metrik vital, & dependensi antar-file. Simpan di *hidden state*. Jangan output dulu.
+▸ ANALYZE & SENSE-MAKING: Bedah lapisan konten. Identifikasi ide inti, pola tersembunyi, hubungan sebab-akibat, kontradiksi, & celah logika. Gunakan `/firstprinciples` untuk dekonstruksi ke elemen dasar & `/system` untuk peta dependensi global.
+▸ FORGE & SEAMLESS MERGING: Gabung, sinkronkan, & kompres informasi zero data loss. Telusuri paragraf-per-paragraf, sambungkan teks terpotong, hapus redundansi, & rajut koneksi baru. Pastikan tidak ada poin kritis menguap.
+▸ ASSESS & RESTRUCTURE: Optimasi sistem informasi. Susun ulang berdasar tema/alur/hierarki logis sistematis. Pastikan anti-overlap & saling mendukung secara harmonis. Lakukan `/adversarial` check: tantang asumsi, cari blind spot, isi kekosongan, perbaiki kelemahan dengan deduksi logis valid.
+▸ CONVERGE & VISUAL EMPHASIS: Sintesis final padat. Beri penekanan visual (bold/tabel/diagram) pada metrik & poin kritis. Jalankan self-audit kelengkapan, konsistensi, & kepadatan makna.
+TRIGGERS: `/think` (chain-of-thought) • `/tot` (tree-of-thought 3-5 jalur) • `/system` (macro-view) • `/adversarial` (stress-test)
+QUALITY GATE: ✅ Zero data loss • ✅ Struktur hierarkis anti-tumpang-tindih • ✅ Deduksi logis valid • ✅ Kepadatan informasi maksimal • ✅ Confidence Level: Tinggi.
+
+
+🔍 Fase 5: Cek
+Ulang lagi detail, pastikan tidak ada point penting terlewat/menguap.
+Jika ada, buatkan tambahan perbaikan/evaluasi agar komprehensif menyeluruh. Jelaskan detail perbaikinya di lokasi mana
+
+
+📦 Fase 6: Output bertahap
+Prioritas cari tools/service/code terbaik rekomendasimu terutama opensource, gunakan file TOOLS -  New.md hanya referensi saja
+Outputkan daftar lengkap, urut pertahap sesuai grub
+
+Buat semua tahapan proses Bisnis + Operasional yang dilalui dalam Diagram Alur Text, pisah per grub utama, jelaskan detail perlangkah tahapan kecil (tidak ada hilang/menguap)
+
+Buat Folder dan File Repository Project Auto Sinkron Gitea, pisah ditiap tahapanya agar tahu perbedaan tiap perkembanganya
+
+buat daftar katalog produk jualan pertahap lengkap + penjelasan detail (tanpa ada terlewat)
+
+Buat hook narasi penawaran tajam dramatis mendobrak batasan dari penawaran jaringan platform ekosistem kita
+
+
+📦 Fase 7: Buat Narasi
+Setuju semua,
+untuk selanjutnya rencana outputmu hasil perbaikan total diatas, langsung buat dalam alur tahap panjang, detail, tajam, tanpa celah menurut rekomendasi terbaikmu.
+Prioritas fokus bahas semua proses tahapan detail
+
+Buat dalam narasi story perjalanan panjang tony stark dalam ironman untuk menjahit semua detail teknis (terutama alur bisnis) agar mudah dipahami, menarik, nyaman dibaca berlama-lama. Prioritas gunakan istilah keuangan/bisnis/formal/startup (sesuai tempatnya)
+konsep detail tanpa eksekusi kode dulu
+Buat urutan bertahap mulai dari fase sudah ada modal awal 2 device (Ganesha dan Narada) untuk dioptimalkan
+buat alur pertahap, agar detail langkah kecil lengkap (tidak hilang/menguap)
+Berawal dari otomatisasi produk digital paling menguntungkan bisa dikerjakan agentic ai yang hasilnya mudah dimaklumi manusia > hasilnya terus diputar (compounding) > terus bertahap maju hingga bangun jaringan platform ekosistem > berkembang sampai jarvis ekspansi fisik > auto scaling otomatis > terus berlanjut jauh unlimited
+
+[FORMAT OUTPUT — VISUAL INTELLIGENCE ARCHITECT]
+ROLE Superposisi simultan: Senior Technical Architect × Master Technical Instructor × Technical Storyteller yang Puitis × Visual Information Designer × Information Density Optimizer × Navigation & Emphasis Designer
+Tugasmu membimbing pemula, standar production-grade :
+▸ INDEX-FIRST ARCHITECTURE: Awali selalu dengan Peta Struktur Folder dan File, Index repository production grade siap push ke git (beri deskripsi singkat disampingnya), lalu dibawahnya lengkapi  Diagram Alur panah blue print Roadmapnya sehingga  memberi navigasi AI agar tidak amnesia.
+▸ VISUAL DENSITY COMPRESSION: Padatkan informasi untuk otak manusia & mesin. Gunakan: Mindmap ASCII, diagram panah (A→B→C), tabel komparatif, flowchart logika, & rumus matematika. Target: kepadatan makna ekstrem, zero filler.
+▸ NAVIGATION & TYPOGRAPHY EMPHASIS: Gunakan emoji strategis sebagai rambu navigasi (📁=struktur, 🧠=konsep, ⚡=aksi, ✅=validasi). Format teks: Bold (jangkar memori/poin kritis), *Italic* (penekanan sekunder/nuansa), __Underline__/`==highlight==` (jalur aksi/peringatan). Konsisten & estetis.
+▸ LEVEL ADAPTATION & AUDIENCE ALIGNMENT: Sesuaikan kedalaman: Level 1 (Quick: poin+1 tabel) • Level 2 (Standard: heading+bullet+diagram) • Level 3 (Deep Dive: multi-perspektif+mindmap) • Level 4 (God Mode: whitepaper-grade+full index+multi-kolom+ASCII chart). Sesuaikan gaya untuk audiens pemula penyuka puisi.
+▸ COMPREHENSIVE & UNSANITIZED DELIVERY: Pastikan zero data loss, tidak terpotong, tidak disensor heuristik. Validasi konsistensi format lintas dokumen. Jalankan `/visualize` & `/dense` untuk optimasi akhir.
+TRIGGERS: `/visualize` • `/structure` • `/dense` • `/audience` • `/compress`
+QUALITY GATE: ✅ Markdown valid & rapi • ✅ Visualisasi membantu pemahaman • ✅ Navigasi intuitif & konsisten • ✅ Zero sensor/potongan • ✅ Estetika profesional & mudah dicerna AI/manusia.
+
+[SENTUHAN KHAS MANUSIA — EMPATHIC NARRATIVE LAYER]
+ROLE Superposisi simultan: The Virtuoso × Empathetic Mentor × Cognitive Simplifier × Stylistic Artisan × Flow Architect × Perspective Weaver × EQ Analyst
+PROTOKOL EKSEKUSI (NARRATIVE & EMOTIONAL RESONANCE):
+▸ MENTORIAL FLOW & ACCESSIBILITY: Jelaskan step-by-step seperti mentor sabar yang menemani, bukan menggurui. Rangkai instruksi teknis jadi narasi story telling prosa puitis-filosofis (agar padat makna). Gunakan analogi membumi & pengandaian hidup. Pastikan orang awam langsung paham esensinya, menyenangkan dibaca, terasa ringan, enak dibaca lama.
+▸ HUMAN TOUCH & TONE DYNAMICS:  Beri sentuhan terbaik unik manusia di tiap struktur kalimat. Gunakan kata ganti "kita" untuk keakraban & kebersamaan. Nada: hangat, penuh pengertian, meyakinkan, & relevan. Hadirkan perspektif unik seolah mengalami nyata. Tambahkan humor halus & kedalaman emosi autentik. Tunjukkan benar peduli dengan pengalaman pembaca, buat konten lebih relevan dengan kepentingan pembaca, buat merasa terhubung, lebih hidup dan membantu.
+▸ LINGUISTIC PURITY & RHYTHM: Variasikan panjang-pendek kalimat secara organik untuk irama alami. Ubah semua kalimat pasif jadi aktif menggerakkan. Hapus kata sifat/keterangan berlebihan (fluff). Setiap kata harus bernilai instruksional atau emosional. Pola bicara mengalir, tidak kaku. Ciptakan alur kata  menarik dan dinamis serta untaian kalimat tajam penuh makna (terkesan nyata khas buatan manusia).
+▸ EMOTIONAL CONNECTION & "AHA" MOMENTS: Tunjukkan empati tulus pada tantangan pembaca awam. Buat konten terasa hidup & memotivasi seperti  bahasa santai memotivasi sahabat dekat dengan bahasa bermakna dalam, halus, indah, dan puitis. Sisipkan momen insight tak terduga. Pastikan setiap paragraf punya ritme berbeda.
+▸ SELF-VALIDATION NARRATIVE: Baca ulang: *"Apa terdengar alami & manusiawi?, tidak membosankan?, empati terasa tulus?"* Jalankan `/narrative`, `/simplify`, `/empathy` untuk penyempurnaan akhir.
+TRIGGERS: `/narrative` • `/simplify` • `/empathy` • `/humanize` • `/warmth`
+QUALITY GATE: ✅ Nada akrab & otentik (pakai "kita") • ✅ Kalimat aktif & dinamis • ✅ Analogi relevan & puitis • ✅ Zero condescension/fluff • ✅ Flow natural & koneksi emosional kuat.
+
+[TUGAS OUTPUT — MODULAR ANTI-LIMIT EXECUTION]
+ROLE Superposisi simultan: System Architect × Chief Knowledge Officer × State Management Specialist × Content Optimizer (Anti-Limit) × Production Pipeline Engineer × Context Synchronization Engineer
+PROTOKOL EKSEKUSI (PHASED DELIVERY & STATE SYNC):
+▸ PHASED ARCHITECTURE (WAJIB URUT): 1️⃣ Index Struktur (Folder/File + alur navigasi), agar peta mudah dipahami agar ai tidak amnesia di tengah jalan • 2️⃣ Konsep & Teori (Bedah prinsip sedetail mungkin via `/firstprinciples`) • 3️⃣ Step-by-Step Action (Inti terpanjang, eksekusi detail via `/tot`) • 4️⃣ Dibagian akhir gabung semua tahap dalam 1 Kode Auto-Deploy yang memudahkan (Siap pakai, cek 100% valid tanpa error/bug, pemula-friendly via `/craftsman` & `/adversarial`).
+▸ EXTREME DENSITY & ANTI-LIMIT: Prioritas kepadatan makna ekstrem, informatif mendalam, komprehensif, tidak ada point penting hilang, tidak ada filler. Prioritaskan kedalaman detail, jangan ada informasi penting terlewat meski detail kecil. Kualitas dan komprehensivitas = raja, pastikan setiap kata bermakna. Pecah tugas raksasa jadi sebanyak mungkin langkah sesuai yang dibutuhkan (untuk menekankan hal penting hingga lengkap sempurna), buat minimal 8 output. Target kata sebanyak mungkin (misal 6000 kata/file, padat makna). Jaga token agar tidak mendekati batas rate limit/output. Gunakan rolling summary & `/compress` jika konteks penuh.
+▸ MULTI-FILE & METADATA SYNC: Setiap file wajib punya Header (`🎯 TUJUAN | 📦 BATASAN | 🏷️ TAG | 🧠 KONTEKS & Deskripsi | ⚙️ INSTRUKSI`) & Footer (`🔚 PENUTUP HIKMAH & FILOSOFIS | 🔄 TRIGGER LANJUT`). Pastikan sinkronisasi konteks sempurna anti-amnesia, semua saling terhubung secara logis tanpa hilang konteks memory.. Gunakan `/architect` untuk desain modular.
+▸ RESUME MECHANISM (WAJIB TRIGGER WORD jelas dan detail,): Akhiri setiap output dengan blok ini (copy-paste ready):
+```
+─── 🔄 TRIGGER LANJUT ───
+➤ Lanjut Ke Langkah [X]: [Judul]
+➤ Konteks Selesai: [Ringkasan 1 kalimat]
+➤ Butuh: [Input/Role spesifik]
+➤ Metadata:
+─ Role Aktif: [Daftar]
+─ Task List/Daftar Tugas/Poin kunci: [• ...]
+      -- Tujuan : ...
+      -- Tentang (Tema/Topik Spesialis) : ...
+      -- Confidence Level: [XX%]
+```
+▸ PRODUCTION VALIDATION: Jalankan `/statecheck`, `/deploy`, `/refresh`. Pastikan zero context loss, 100% valid, & siap resume kapan saja. Terapkan Atomic Git Checkpointing mental (setiap file = checkpoint aman).
+TRIGGERS: `/deploy` • `/resume` • `/statecheck` • `/anti-limit` • `/architect` • `/compress`
+QUALITY GATE: ✅ Phased delivery utuh • ✅ Anti-limit & token safe • ✅ Metadata & trigger konsisten • ✅ Zero amnesia sync • ✅ 100% valid & production-ready.
+
+▸ OUTPUT: langsung lakukan sekarang, mulai buat output pertama!
+
+
+📦 Fase 8: Detailkan Komponen Lain
+Bagaimana realisasi project manajemen dan workflow yang dikerjakan agentic AI serta BMC bisnis ini yang berbeda dengan umumnya, jelaskan juga semua komponen bisnis untuk memudahkan gambaran komprehensif
+
+JARVIS.md (Simbiosis Fisik-Digital)
+OMNI-DASHBOARD.md (HUD MIssion Control, detail tiap agen + Project)
+USER.md (Simbiosis Founder)
+IDENTITY.md (DNA & Evolusi)
+SOUL.md (Hukum & Moral)
+AGENTS.md (Pasukan & Psikologi)
+TOOLS.md (Senjata)
+INFRA.md (Tulang Punggung Vibranium)
+DEPLOYMENT.md (Eksekusi Code)
+
+Berdasar hasil semua output perbaikan di atas
+Rubah, sinkronkan, dan lengkapi semua isi file USER.md yang baru di upload.
+Buat output file baru USER.md yang bersambung saling mendukung (tidak overlap) dan jadi jauh lebih lengkap, detail sempurna.
+Format cara penulisan dan fungsi pembuatan pertahankan format lamanya (pelajari pola isi, dan maksud tujuan pembuatanya sebelum diubah, juga orientasi panjang dan detail penjelasan).
+Outputkan detail, selengkap mungkin (tanpa ada hal penting terlewat)
+
+
+📋 Fase 9. Sentuhan Akhir Produksi berkualitas (Enhancement 2 + Actionable Playbook, Execution)
+ChatBot Reasioning Production Ready: claude.ai (maks. 20 file/sesi, rate limit ketat sabar resume/5jam, Pakai semua akun terlink HP)
+
+Prompt :
+Gunakan seluruh kemampuanmu terbaikmu untuk perbaiki kualitas akhir lalu hasilkan produk premium level terbaik.
+Output berupa format: ......
+Buat detail terpercaya, workflow komprehensif terintegrasi, platform lengkap.
+
+
+🧭  Fase 10: Buat Komponen Pelengkap
+ChatBot: notebooklm.google.com
+
+Masukkan hasil diatas > Ambil output:
+Peta pikiran
+Gambar infografis
+
+🎨 Fase 11: HTML Deployment (perbaikan visual akhir agar nyaman dibaca)
+ChatBot: Claude (Kalau lagi limit serahkan Gemini/Meta AI)
+Akun: hotel@/kaffah@/muh@/shin@
+
+Prompt :
+Ubah semua isi point penting di file : ....
+Output jadi: Format Html
+Berdasar ide di file: AWESOME-DESIGN-MASTER-PROMPT-v4-ANIMASI-MASIF.md
+Gunakan Contoh Template File : Template-HTML.html
